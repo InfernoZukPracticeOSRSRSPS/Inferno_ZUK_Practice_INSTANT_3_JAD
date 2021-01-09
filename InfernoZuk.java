@@ -22,3 +22,7 @@ FOR RUNELITE AND OPENOSRS
 
 net.runelite.client
 net.openosrs.client
+
+
+rspslist.ga
+https://rspslist.ga
