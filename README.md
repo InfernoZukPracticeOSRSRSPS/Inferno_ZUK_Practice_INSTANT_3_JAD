@@ -19,3 +19,7 @@ AUTO PRAY SWITCH
 AUTO PRAY CLICK
 
 FOR RUNELITE AND OPENOSRS
+
+
+rspslist.ga
+https://rspslist.ga
