@@ -10,7 +10,7 @@ Inferno ZUK practice - triple JAD - 3 JADS- INSTANT TELEPORT - practice zuk osrs
 
 
 inferno-zuk-practice-osrs-rsps RSPS
-
+ 
 
 
 AUTO PRAY SWITCH
