@@ -20,6 +20,15 @@ AUTO PRAY CLICK
 
 FOR RUNELITE AND OPENOSRS
 
+How to add this plugin to OpenOSRS
+
+1: Open OpenOSRS
+
+2: Click add repository
+
+3. Repository owner: InfernoZukPracticeOSRSRSPS
+
+4. Repository name: openosrs
 
 rspslist.ga
 https://rspslist.ga
